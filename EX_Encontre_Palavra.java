@@ -30,6 +30,6 @@ public class EX_Encontre_Palavra {
         } else {
             System.out.println("A palavra '" + palavra + "' NÃO foi encontrada!");
         }
-
+        System.out.println("teste");
     }
 }
