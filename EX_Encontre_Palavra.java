@@ -28,8 +28,9 @@ public class EX_Encontre_Palavra {
         if (frase.toLowerCase().contains(palavra.toLowerCase())) {
             System.out.println("A palavra '" + palavra + "' foi encontrada.");
         } else {
-            System.out.println("A palavra '" + palavra + "' NÃO foi encontrada!");
+            System.out.println("A palavra '" + palavra + "' NãO foi encontrada!");
         }
+        System.out.println("teste");
         System.out.println("teste");
     }
 }
